@@ -1,3 +1,4 @@
+
 <?
 #	System functions
 	defined('SYSTEMACCESS') or die('Geen directe toegang mogelijk!');
